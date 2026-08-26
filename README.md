@@ -123,3 +123,16 @@ yourself at the right moment —
 **Step D — Confirm and hand back.** Tell the user their three rules back (from `CLAUDE.md`) so
 they can see you loaded them, then wait for them. Never write into `wiki/` without a second
 person's check, and never write a fact you can't attribute to a source.
+
+---
+
+## 4. Inspired by
+
+This kit borrows ideas from:
+
+- **Andrej Karpathy's LLM Wiki** — the "talk to it, it writes it down" approach to building a
+  knowledge base through conversation.
+- **[kepano's Obsidian setup](https://github.com/kepano/kepano-obsidian)** — personal
+  Obsidian configuration and workflow.
+- **[Ohm Panai's Self OS Brain Kit](https://github.com/0xxhm/selfos-brain-kit/tree/main)** —
+  personal knowledge-base starter kit.
