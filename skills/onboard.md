@@ -73,9 +73,20 @@ Same fixed block as any `knowledge/` note (see `CLAUDE.md`, "What goes at the to
   `skills/check.md` before trusting it.
 - Add one line to `log.md`: date | file | who | confidence | captured (draft).
 - Read the map back to them in a few lines and fix anything wrong while they're still here.
-- Point at what's next: "Next time we can grill any of these" — list the Open questions.
+- List the Open questions you parked — these are the first things worth writing down next.
 
-Then hand off: when they want to go deep on one of those, switch to `skills/grill.md`.
+Then ask them, straight out, how they want to capture their first real note — and offer both
+ways so they just pick one:
+
+1. **Talk it through now.** Pick one of the Open questions (or anything on their mind) and
+   start an interview right away — they talk, you write. Switch to `skills/grill.md`.
+2. **Bring files first.** They may already have it written down somewhere — an SOP slide, a
+   chat export, a photo of a whiteboard, a document. Ask them to drop those into `raw/` (or
+   just hand them over), then turn each one into a clean note with `skills/grill.md`, using the
+   file as the starting point.
+
+Let them choose. If they are not ready for either right now, that is fine — onboarding already
+saved a useful context note. Stop cleanly and pick it up next time.
 
 ## Worked example (a real first run — the kit owner)
 

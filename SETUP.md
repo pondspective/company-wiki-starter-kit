@@ -18,11 +18,10 @@ or Option B.
 
 > Please connect to this repository and use it as my team wiki:
 > <REPO_URL>
-> Read README.md, then CLAUDE.md, and follow them. Then wait for me. When I say I want to
-> write something down, open skills/grill.md and follow it. Interview me one question at a
-> time, in Thai.
+> Read README.md then CLAUDE.md and follow them. It's our first time — start with
+> skills/onboard.md, in Thai.
 
-Done. The AI now knows the rules and the interview.
+Done. The AI now knows the rules and will start by getting to know your work.
 
 ## Option B: From a ZIP file (if GitHub is not set up)
 
@@ -31,12 +30,15 @@ Done. The AI now knows the rules and the interview.
 3. Open your AI tool (Claude, Codex, Gemini, Cursor, or a chat window) and point it at that folder.
 4. Paste this prompt:
 
-> This folder is my team wiki. Read README.md, then CLAUDE.md, and follow them. Then wait
-> for me. When I say I want to write something down, open skills/grill.md and follow it.
-> Interview me one question at a time, in Thai.
+> This folder is my team wiki. Read README.md then CLAUDE.md and follow them. It's our first
+> time — start with skills/onboard.md, in Thai.
 
 ## How to check it worked
 
-Type: "What are your three rules?" The AI should answer: they talk and you write, every
-note has a source and a date, and contradictions are kept side by side. If it says that,
-you are ready.
+A correctly set-up AI starts asking about your day, one question at a time, in Thai. To
+double-check it read the rules, ask "What are your three rules?" — it should answer: they talk
+and you write; every note has a source and a date; contradictions are kept side by side.
+
+After this first run, everyday use is simpler: just say "I want to write down how we do X"
+(it interviews you and saves a draft), or ask any question (it answers from the trusted shelf
+first and always says where the answer came from).

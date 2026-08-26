@@ -59,14 +59,14 @@ You do this once, to connect an AI to this folder. Full walkthrough is in **`SET
 
 1. Open this folder in your AI tool (Claude, Codex, Gemini, Cursor, or a chat window you can
    paste files into).
-2. Give it this first message:
+2. Give it this first message (first-time setup):
 
-   > This folder is my team wiki. **Read `README.md`, then `CLAUDE.md`, and follow them.**
-   > Then wait for me. Talk to me in Thai.
+   > This folder is my team wiki. Read `README.md` then `CLAUDE.md` and follow them.
+   > It's our first time — start with `skills/onboard.md`, in Thai.
 
-3. Check it worked: ask *"What are your three rules?"* A correctly set-up AI answers: they
-   talk and it writes; every note has a source and a date; contradictions are kept side by
-   side. If it says that, you're ready — just tell it what you want to write down.
+3. It should start asking about your day, one question at a time. (To confirm it loaded the
+   rules, ask *"What are your three rules?"*.) After this first run, everyday use is simpler:
+   just say *"I want to write down how we do X"*, or ask any question.
 
 You never need to know markdown. If you don't know an answer to something it asks, say so —
 it writes the question down for someone who does.
