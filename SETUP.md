@@ -25,7 +25,7 @@ Done. The AI now knows the rules and will start by getting to know your work.
 
 ## Option B: From a ZIP file (if GitHub is not set up)
 
-1. Download the wiki here: <ZIP_URL>
+1. Download the wiki here: [`starter-wiki.zip`](./starter-wiki.zip)
 2. Unzip it into your Obsidian vault folder (or any folder you like).
 3. Open your AI tool (Claude, Codex, Gemini, Cursor, or a chat window) and point it at that folder.
 4. Paste this prompt:

@@ -71,6 +71,11 @@ You do this once, to connect an AI to this folder. Full walkthrough is in **`SET
 You never need to know markdown. If you don't know an answer to something it asks, say so —
 it writes the question down for someone who does.
 
+**Can't clone this repo?** Some shops don't have git or GitHub access set up. Use the zip file
+instead — **[`starter-wiki.zip`](./starter-wiki.zip)** — same contents, no git needed. Unzip
+it anywhere (your Obsidian vault folder is fine) and open *that* folder in your AI tool instead
+of step 1. Full detail in `SETUP.md` → Option B.
+
 ---
 
 ## 3. Set it up — for an AI agent that landed here first
@@ -78,6 +83,11 @@ it writes the question down for someone who does.
 You may be running in a harness that did **not** auto-load `CLAUDE.md` (for example you are
 Codex, Gemini, or a plain chat model). Do these four steps before doing anything else. They
 make this wiki work the same way under your harness as it does under Claude Code.
+
+**Step 0 — No git access?** If you can't `git clone` this repository (no git installed, no
+network access to the remote, sandboxed environment, etc.), download and unzip
+**[`starter-wiki.zip`](./starter-wiki.zip)** instead — it's a full copy of this repo. Then
+continue with Step A below using the unzipped folder in place of the clone.
 
 **Step A — Read the rulebook.** Open and fully read **`CLAUDE.md`** at the repo root. It is
 the canonical operating manual no matter which model you are: the three folders, the three
