@@ -73,6 +73,9 @@ one line. Separate fields are what let us check, later, that every note has a re
 
 ## Which skill for which job
 
+- A new person just opened this kit and the wiki is still almost empty: read
+  `skills/onboard.md`. It interviews them about their day-to-day to seed context, and saves a
+  draft into `knowledge/`.
 - Someone wants to write something down, or you need to turn a `raw/` dump into a real note:
   read `skills/grill.md` and follow it. It saves a clean draft into `knowledge/`.
 - A draft in `knowledge/` is ready for a second person to check: read `skills/check.md`.
