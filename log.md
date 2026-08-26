@@ -5,5 +5,6 @@ at the top.
 
 Format: date | note file | who | how sure | step
 
-- 2026-08-21 | wiki/stock-count-month-end.md | พี่นก เล่า, พี่เมย์ ตรวจ | HIGH | checked (moved to wiki)
-- 2026-08-20 | knowledge/short-delivery-workaround.md | พี่ต้อม (พนักงานรับของ) | MEDIUM | captured (draft)
+<!-- Your real captures go here, newest at the top. The example log lines that used to sit
+here now live in example-vault/log.md. -->
+

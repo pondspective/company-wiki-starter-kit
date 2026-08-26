@@ -11,6 +11,12 @@ mixed up with guesses.
 
 Read `CLAUDE.md` first if you have not. The three layers there are the whole idea.
 
+**Never answer from `example-vault/`.** That folder is frozen example and template material —
+made-up notes that show the *shape* of a good note, not real facts about this company. It is
+fine to read it when you are *writing* a note (to copy the shape). It is never a source for
+answering a question. Here, only the live `wiki/`, `knowledge/`, and `raw/` folders at the repo
+root count.
+
 ## Step 1: Look in `wiki/` first
 
 `wiki/` is the trusted shelf. If the answer is here, give it plainly. This is what the team
